@@ -83,7 +83,7 @@ code {
   color: var(--text);
 }
 
-/* Título siempre visible */
+
 .tag {
   font-weight: 700;
   color: var(--brand);
